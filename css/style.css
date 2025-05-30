@@ -135,7 +135,7 @@ body {
 }
 
 .bento-grid .item:nth-child(3) img {
-  position: absolute;
+  position: static;
   height: 400px;
   object-fit: cover;
   object-position: left;
