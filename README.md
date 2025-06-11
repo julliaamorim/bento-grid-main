@@ -24,8 +24,7 @@ O foco aqui foi praticar **CSS Grid** e trabalhar o design visual, alinhamento d
 
 * ⚙️ **HTML5**
 * 🎨 **CSS3 (CSS Grid)**
-* 💻 **JavaScript (opcional)**
-* 🌐 **GitHub Pages** (para o deploy)
+* 🌐 **GitHub Pages** 
 
 ---
 
